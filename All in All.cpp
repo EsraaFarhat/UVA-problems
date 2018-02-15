@@ -18,7 +18,7 @@ int main()
                    if(s[i]==t[j])
                    {
                        cnt++;
-                       //j--;
+                       j--;
                        break;
                    }
                  }
